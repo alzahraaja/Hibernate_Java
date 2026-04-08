@@ -19,8 +19,6 @@ Sebelum menjalankan aplikasi, pastikan sistem Anda memiliki:
 ### 3. MySQL Server
 - *Versi Minimum*: 5.7 atau 8.0
 
-### 4. MySQL Connector/J
-
 ## Struktur Folder 
 - src
 - target
