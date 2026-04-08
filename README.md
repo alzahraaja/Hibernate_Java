@@ -29,5 +29,6 @@ Sebelum menjalankan aplikasi, pastikan sistem Anda memiliki:
 ## Hasil Screenshot 
 <img width="1920" height="1080" alt="Screenshot 2026-04-08 100348" src="https://github.com/user-attachments/assets/dc512df6-2c92-4d74-924c-230d788eb6d8" />
 
-dibuat oleh Alzahra Cahya Suarga Dwi Pramana dengan nim I.2510091
+### dibuat oleh Alzahra Cahya Suarga Dwi Pramana dengan nim I.2510091
+*Catatan*: Pastikan MySQL server selalu berjalan sebelum menjalankan aplikasi. Aplikasi ini menggunakan koneksi database langsung tanpa connection pooling untuk kesederhanaan.
 
